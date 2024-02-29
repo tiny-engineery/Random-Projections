@@ -1,2 +1,2 @@
 # Random Projections
- Algorithms using random projections
+ This repo contains some algorithms using random projections
